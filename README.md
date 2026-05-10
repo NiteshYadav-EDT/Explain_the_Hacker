@@ -1,16 +1,206 @@
-# React + Vite
+# Explain The Hacker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive cybersecurity platform by CyberEDT designed to simulate, visualize, and explain real-world cyber attack chains in a simple and engaging way.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Explain The Hacker** helps users understand how attackers think, operate, and exploit systems through visual attack simulations and threat analysis. The platform focuses on cybersecurity awareness, attack-chain learning, and hands-on understanding of modern cyber threats.
 
-## React Compiler
+The project combines:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Interactive attack-chain visualization
+* Threat analysis concepts
+* MITRE ATT&CK inspired learning
+* Cybersecurity awareness
+* Hacker mindset explanation
+* AI-powered threat understanding
 
-## Expanding the ESLint configuration
+This project is part of the broader CyberEDT cybersecurity ecosystem.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+* Interactive cybersecurity learning experience
+* Visualization of attack chains and tactics
+* Real-world inspired threat scenarios
+* Beginner-friendly explanation of hacking techniques
+* Modern responsive UI
+* Fast frontend powered by Vite
+* Cybersecurity-focused educational design
+* AI-assisted threat explanation concepts
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* React
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+
+### UI & Design
+
+* Inter Font
+* JetBrains Mono
+* Responsive Design Principles
+
+### Cybersecurity Concepts
+
+* MITRE ATT&CK Framework
+* Threat Analysis
+* Attack Chain Visualization
+* Penetration Testing Awareness
+
+---
+
+## Project Goal
+
+The goal of this project is to make cybersecurity easier to understand by visually explaining how attackers perform different stages of an attack.
+
+Instead of only reading theory, users can:
+
+* Understand hacker methodologies
+* Learn attack flow structures
+* Analyze tactics and techniques
+* Improve cybersecurity awareness
+* Think like a defender
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/NCP-90/Explain_the_Hacker.git
+```
+
+Navigate into the project:
+
+```bash
+cd Explain_the_Hacker
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## Folder Structure
+
+```bash
+Explain_the_Hacker/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── styles/
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## Vision
+
+Explain The Hacker aims to become a modern educational cybersecurity platform where students, enthusiasts, and professionals can safely learn:
+
+* How attacks happen
+* How systems are compromised
+* How defenders respond
+* How cybersecurity frameworks work
+
+The focus is educational awareness and defensive understanding.
+
+---
+
+## Future Plans
+
+* Advanced attack-chain simulation
+* AI-generated threat explanations
+* Real-time visualization dashboards
+* Interactive learning modules
+* SOC-style monitoring simulations
+* Defensive recommendations
+* Browser-based cybersecurity labs
+* CyberEDT ecosystem integration
+
+---
+
+## SEO Metadata
+
+The project includes cybersecurity-focused SEO optimization with metadata for:
+
+* Cybersecurity
+* Hacker Simulation
+* Attack Chain Visualization
+* Threat Analysis
+* MITRE ATT&CK
+* Penetration Testing Awareness
+
+Referenced from the uploaded project overview file. fileciteturn0file0
+
+---
+
+## Contributing
+
+Contributions, ideas, and improvements are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+## Disclaimer
+
+This project is created strictly for:
+
+* Cybersecurity education
+* Awareness
+* Ethical learning
+* Defensive security understanding
+
+It is not intended for illegal activities or unauthorized access.
+
+---
+
+## Author
+
+Developed by Nitesh Yadav and Dhruv Patel
+
+Part of the CyberEDT ecosystem.
